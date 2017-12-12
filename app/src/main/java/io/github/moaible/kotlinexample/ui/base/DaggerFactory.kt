@@ -9,7 +9,7 @@ import io.github.moaible.kotlinexample.ui.main.MainActivity
  * ビューモデルを作成するファクトリ
  * Daggerから生成します
  *
- * Created by keisuke on 2017/11/12.
+ * Created by moaible on 2017/11/12.
  */
 class DaggerFactory(private val activity: BaseActivity) : ViewModelProvider.Factory {
     override fun <T : ViewModel?> create(modelClass: Class<T>): T {

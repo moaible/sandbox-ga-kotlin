@@ -18,7 +18,7 @@ import org.robolectric.annotation.Config
 
 /**
  * ViewModel test
- * Created by keisukekobayashi on 2017/04/24.
+ * Created by moaible on 2017/04/24.
  */
 @RunWith(RobolectricTestRunner::class)
 @Config(constants = BuildConfig::class,

@@ -5,7 +5,7 @@ import com.github.gfx.android.orma.annotation.PrimaryKey
 import com.github.gfx.android.orma.annotation.Table
 
 /**
- * Created by keisuke on 2017/11/12.
+ * Created by moaible on 2017/11/12.
  */
 @Table
 data class User(@PrimaryKey(auto = false) var id: Long = 0L,
