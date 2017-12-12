@@ -20,7 +20,7 @@ class MainActivity : BaseActivity() {
         viewModel = ViewModelProviders.of(this, DaggerFactory(this)).get(MainViewModel::class.java)
         viewModel.lifecycle = lifecycle
         lifecycle.addObserver(viewModel)
-
+        tracker.setScreenName("Main")
         // レイアウト
         val binding: MainActivityBinding = DataBindingUtil.setContentView(this, R.layout.main_activity)
         binding.viewModel = viewModel

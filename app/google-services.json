@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "674797997318",
+    "project_id": "firebase-sandbox-ga"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674797997318:android:5510218e6beb7409",
+        "android_client_info": {
+          "package_name": "com.ga.sandbox.moaible.sandbox_ga_kotloin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674797997318-k5usi26pgn27norcbbstvbff5no2sgua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagsFuyKe2iI97d8iW_sMRs_Jxp6vallg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-65603755-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674797997318:android:e96b385ffb9f5713",
+        "android_client_info": {
+          "package_name": "io.github.moaible.kotlinexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674797997318-k5usi26pgn27norcbbstvbff5no2sgua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagsFuyKe2iI97d8iW_sMRs_Jxp6vallg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-65603755-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
